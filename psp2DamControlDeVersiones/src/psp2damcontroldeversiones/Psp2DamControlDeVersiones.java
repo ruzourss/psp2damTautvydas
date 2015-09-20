@@ -16,6 +16,7 @@ public class Psp2DamControlDeVersiones {
      */
     public static void main(String[] args) {
        
+        System.out.println("Hola mundo esto es una prueba para el control de versiones");
     }
     
 }
